@@ -1,0 +1,5 @@
+com\springtableforportfolio\table\controllers\UserController.class
+com\springtableforportfolio\table\repositories\UserRepository.class
+com\springtableforportfolio\table\services\UserService.class
+com\springtableforportfolio\table\TableApplication.class
+com\springtableforportfolio\table\entities\User.class
